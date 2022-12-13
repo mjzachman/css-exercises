@@ -1,5 +1,5 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 img {
@@ -18,7 +18,7 @@ img {
   justify-content: center;
 }
 
-.item{
+.item {
   width: 200px;
   padding: 52px;
   padding-top: 32px;
